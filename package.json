@@ -1,6 +1,6 @@
 {
-  "name": "xmlhttprequest",
-  "description": "XMLHttpRequest for Node",
+  "name": "@ethiclab/xmlhttprequest",
+  "description": "XMLHttpRequest for Node forked from https://github.com/driverdan/node-XMLHttpRequest",
   "version": "1.8.0",
   "author": {
     "name": "Dan DeFelippi",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+    "url": "git://github.com/ethiclab/node-XMLHttpRequest.git"
   },
   "browser": "./lib/browser.js",
   "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues",
